@@ -1,3 +1,3 @@
-module github.com/gmD3v/goModule
+module github.com/gmd3v/goModule
 
 go 1.20
